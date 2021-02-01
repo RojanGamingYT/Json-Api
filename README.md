@@ -6,7 +6,7 @@ A Epic repository to make Json Api
 
 ## :memo: Install/Run
 
-[![Run on Repl.it](https://repl.it/badge/github/GoByeBye/DiscoRape)](https://repl.it/github/GoByeBye/DiscoRape)
+[![Run on Repl.it](https://repl.it/badge/github/RojanGamingYT/Json-Get-Api)](https://repl.it/github/RojanGamingYT/Json-Get-Api)
 
 
 ## Support/Contributing

@@ -6,7 +6,7 @@ A Epic repository to make Json Api
 ## :memo: Install/Run
 `$ npm install express`
 `or`
-`$ npm i express`
+ `$ npm i express`
 
 [![Run on Repl.it](https://repl.it/badge/github/RojanGamingYT/Json-Get-Api)](https://repl.it/github/RojanGamingYT/Json-Get-Api)
 

@@ -8,7 +8,7 @@ app.get("/api/NAME", (req, res) => {
 const items = ["ITEM 1","ITEM 2","ITEM 3","ITEM 4", 
  ];
 
-//To add More items put it under "Like This" or visit RojanGamingYT for Tutorial
+//To add More items put it under "Like This" or visit RojanGamingYT's Server for Tutorial
 
  const item = Math.floor(Math.random() * items.length);
  

@@ -7,4 +7,4 @@ A Epic repository to make Json Api
 `$ npm i express`
 
 ## Support/Contributing
-For support you can either join my support discord server which you can find it <a href="https://discord.gg/vnVBHCANEA"> here
+For support you can either join my support discord server which you can find it <a href="https://dedsecbot.tk/dedsec"> here

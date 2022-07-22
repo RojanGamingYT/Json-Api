@@ -5,6 +5,7 @@ A Epic repository to make Json Api
 
 ## :memo: Install/Run
 `$ npm i express`
+`$ node index.js`
 
 ## Support/Contributing
 For support you can either join my support discord server which you can find it <a href="https://dedsecbot.tk/dedsec"> here

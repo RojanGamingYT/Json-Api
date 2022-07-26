@@ -8,4 +8,4 @@ A Epic repository to make Json Api
 `$ node index.js`
 
 ## Support/Contributing
-For support you can either join my support discord server which you can find it <a href="https://dedsecbot.tk/dedsec"> here
+For support you can either join my support discord server which you can find it <a href="https://dedsecbot.ml/dedsec"> here
